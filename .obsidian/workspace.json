@@ -11,10 +11,24 @@
             "id": "0c6e0fe7cf044524",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "phase 0 week 01 day 06"
             }
           }
         ]
@@ -90,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for phase 0 week 01 day 06"
             }
           },
           {
@@ -108,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from phase 0 week 01 day 06"
             }
           },
           {
@@ -150,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 06.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of phase 0 week 01 day 06"
             }
           }
         ]
@@ -178,12 +195,19 @@
   },
   "active": "0c6e0fe7cf044524",
   "lastOpenFiles": [
+    "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 05.md",
+    "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 06.md",
+    "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 04.md",
+    "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 03.md",
+    "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 02.md",
+    "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 01.md",
+    "03. Research Log/Week Template.md",
+    "03. Research Log/Phase 0 Week 1",
     "06. Capstone/Postmortem.md",
     "06. Capstone/System Overview.md",
     "05. HoldIQ Integration/Risk Gaurdrails.md",
     "05. HoldIQ Integration/Design Notes.md",
     "04. Labs/Covariance Models/README.md",
-    "03. Research Log/Week 1.md",
     "04. Labs/Regime Engine",
     "04. Labs/ML Alpha",
     "04. Labs/Execution Sim",
@@ -194,7 +218,6 @@
     "02. Finance/Portfolios Theory",
     "02. Finance/Time Series",
     "01. Math/Statistics",
-    "01. Math/Probabiltity",
     "01. Math/Optimization.md",
     "03. Research Log/README.md",
     "00. Meta/How to use QuantCraft.md",
@@ -207,12 +230,6 @@
     "04. Labs/Execution Sim.md",
     "04. Labs/Regime Engine.md",
     "02. Finance/Microstructure.md",
-    "02. Finance/Derivatives.md",
-    "02. Finance/Portfolio Theory.md",
-    "02. Finance/Time Series.md",
-    "01. Math/Statistics.md",
-    "01. Math/Probability.md",
-    "01. Math/Linear Algebra.md",
-    "Welcome.md"
+    "02. Finance/Derivatives.md"
   ]
 }

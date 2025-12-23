@@ -1,0 +1,3 @@
+- Spread mechanics
+    
+- Adverse selection

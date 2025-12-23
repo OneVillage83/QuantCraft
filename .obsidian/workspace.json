@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f3e92444a1e88f7c",
+        "id": "9b4e49cb7719677e",
         "type": "tabs",
         "children": [
           {
-            "id": "0c6e0fe7cf044524",
+            "id": "aa5f28c05531459c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 06.md",
+                "file": "QuantCraft Handbook v1/PART I — Mathematical Reality for Quants/Chapter 4 — Proofs, Counterexamples & Fragility/Chapter 4 page.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "phase 0 week 01 day 06"
+              "title": "Chapter 4 page"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 06.md",
+                "file": "QuantCraft Handbook v1/PART I — Mathematical Reality for Quants/Chapter 4 — Proofs, Counterexamples & Fragility/Chapter 4 page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for phase 0 week 01 day 06"
+              "title": "Backlinks for Chapter 4 page"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 06.md",
+                "file": "QuantCraft Handbook v1/PART I — Mathematical Reality for Quants/Chapter 4 — Proofs, Counterexamples & Fragility/Chapter 4 page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from phase 0 week 01 day 06"
+              "title": "Outgoing links from Chapter 4 page"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 06.md",
+                "file": "QuantCraft Handbook v1/PART I — Mathematical Reality for Quants/Chapter 4 — Proofs, Counterexamples & Fragility/Chapter 4 page.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of phase 0 week 01 day 06"
+              "title": "Outline of Chapter 4 page"
             }
           }
         ]
@@ -193,43 +193,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "0c6e0fe7cf044524",
+  "active": "aa5f28c05531459c",
   "lastOpenFiles": [
-    "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 05.md",
-    "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 06.md",
-    "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 04.md",
-    "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 03.md",
-    "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 02.md",
-    "03. Research Log/Phase 0 Week 1/phase 0 week 01 day 01.md",
-    "03. Research Log/Week Template.md",
-    "03. Research Log/Phase 0 Week 1",
-    "06. Capstone/Postmortem.md",
-    "06. Capstone/System Overview.md",
-    "05. HoldIQ Integration/Risk Gaurdrails.md",
-    "05. HoldIQ Integration/Design Notes.md",
-    "04. Labs/Covariance Models/README.md",
-    "04. Labs/Regime Engine",
-    "04. Labs/ML Alpha",
-    "04. Labs/Execution Sim",
-    "04. Labs/Covariance Models.md",
-    "04. Labs/Covariance Models",
-    "02. Finance/Derivitives",
-    "02. Finance/Microstructure",
-    "02. Finance/Portfolios Theory",
-    "02. Finance/Time Series",
-    "01. Math/Statistics",
-    "01. Math/Optimization.md",
-    "03. Research Log/README.md",
-    "00. Meta/How to use QuantCraft.md",
-    "00. Meta/Curriculum Map.md",
-    "00. Meta/Rules.md",
-    "00. Meta/Goals.md",
+    "QuantCraft Handbook v1/PART I — Mathematical Reality for Quants/Chapter 4 — Proofs, Counterexamples & Fragility/Chapter 4 — Proofs, Counterexamples & Fragility outline.md",
+    "QuantCraft Handbook v1/PART I — Mathematical Reality for Quants/Chapter 4 — Proofs, Counterexamples & Fragility/Chapter 4 page.md",
+    "QuantCraft Handbook v1/PART I — Mathematical Reality for Quants/Chapter 4 — Proofs, Counterexamples & Fragility",
+    "QuantCraft Handbook v1/Untitled",
+    "QuantCraft Handbook v1/PART I — Mathematical Reality for Quants/Chapter 3 — Inequalities, Convexity & Risk/Chapter 3 page.md",
+    "QuantCraft Handbook v1/PART I — Mathematical Reality for Quants/Chapter 3 — Inequalities, Convexity & Risk/Chapter 3 — Inequalities, Convexity & Risk Outline.md",
+    "QuantCraft Handbook v1/PART I — Mathematical Reality for Quants/Chapter 3 — Inequalities, Convexity & Risk",
+    "QuantCraft Handbook v1/PART I — Mathematical Reality for Quants/Chapter 2 — Approximation Is the Default/Chapter 2 page.md",
+    "QuantCraft Handbook v1/PART I — Mathematical Reality for Quants/Chapter 2 — Approximation Is the Default/Chapter 2 — Approximation Is the Default Outline.md",
+    "QuantCraft Handbook v1/PART I — Mathematical Reality for Quants/Chapter 2 — Approximation Is the Default",
+    "QuantCraft Handbook v1/PART I — Mathematical Reality for Quants/Chapter 1 — Numbers Are Not Real/Chapter 1 page.md",
+    "QuantCraft Handbook v1/PART I — Mathematical Reality for Quants/Chapter 1 — Numbers Are Not Real/Chapter 1 — Numbers Are Not Real outline.md",
+    "Templates/QuantCraft – LaTeX Reference Template.md",
+    "Reference",
+    "Templates",
+    "Reference/QuantCraft LaTeX Reference Sheet.md",
+    "Reference",
+    "QuantCraft Handbook v1/PART I — Mathematical Reality for Quants/Chapter 1 — Numbers Are Not Real",
+    "QuantCraft Handbook v1/PART VIII — Tail Risk, Robustness & Autonomy/Chapter 28 — From Research to Autonomous Systems.md",
+    "QuantCraft Handbook v1/PART VIII — Tail Risk, Robustness & Autonomy/Chapter 27 — Kill Switches & Risk Governors.md",
+    "QuantCraft Handbook v1/PART VIII — Tail Risk, Robustness & Autonomy/Chapter 26 — Fat Tails & Extremes.md",
+    "QuantCraft Handbook v1/PART VII — Machine Learning (Without Delusion)/Chapter 25 — Validation That Doesn’t Lie.md",
+    "QuantCraft Handbook v1/PART VIII — Tail Risk, Robustness & Autonomy",
+    "QuantCraft Handbook v1/PART VII — Machine Learning (Without Delusion)/Chapter 24 — Features, Labels & Time.md",
     "README.md",
-    "05. HoldIQ Integration/API Specs.md",
-    "04. Labs/ML Alpha.md",
-    "04. Labs/Execution Sim.md",
-    "04. Labs/Regime Engine.md",
-    "02. Finance/Microstructure.md",
-    "02. Finance/Derivatives.md"
+    "QuantCraft Handbook v1/PART VII — Machine Learning (Without Delusion)/Chapter 23 — Why ML Fails in Markets.md",
+    "QuantCraft Handbook v1/PART VI — Markets Are Microstructure/Chapter 22 — Why Backtests Lie About Execution.md",
+    "QuantCraft Handbook v1/PART VII — Machine Learning (Without Delusion)",
+    "QuantCraft Handbook v1/PART VI — Markets Are Microstructure/Chapter 21 — Slippage, Impact & Execution Decay.md",
+    "QuantCraft Handbook v1/PART VI — Markets Are Microstructure/Chapter 20 — Order Books & Liquidity.md",
+    "QuantCraft Handbook v1/PART V — Optimization, Portfolios & Survival/Chapter 19 — Sizing, Drawdowns & Death.md",
+    "QuantCraft Handbook v1/PART V — Optimization, Portfolios & Survival/Chapter 18 — Portfolio Construction ,greater than, Signal Brilliance.md",
+    "QuantCraft Handbook v1/PART V — Optimization, Portfolios & Survival/Chapter 17 — Optimization Is a Risk Problem.md",
+    "QuantCraft Handbook v1/PART IV — Statistics, Time Series & Regimes/Chapter 16 — Cointegration & Structural Relationships.md",
+    "QuantCraft Handbook v1/PART IV — Statistics, Time Series & Regimes/Chapter 15 — Volatility Is the Market.md",
+    "QuantCraft Handbook v1/PART IV — Statistics, Time Series & Regimes/Chapter 14 — Time Series Reality.md"
   ]
 }
